@@ -1,3 +1,5 @@
+# Guide to Modern Python String Interpolation
+
 name = 'Peter'
 product = 'Python elearning course'
 

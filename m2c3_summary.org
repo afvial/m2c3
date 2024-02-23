@@ -1,0 +1,101 @@
+
+Module 2 - Checkpoint 3 Summary
+
+| Section                                    | File             |
+|--------------------------------------------+------------------|
+|--------------------------------------------+------------------|
+| Logo Design Guide Part 1                   |                  |
+|--------------------------------------------+------------------|
+| Logo Design Guide Part 2                   |                  |
+|--------------------------------------------+------------------|
+| UI Project Requirements:                   |                  |
+| Design a Portfolio Application and Logo    |                  |
+|--------------------------------------------+------------------|
+| What is Programming?                       |                  |
+|--------------------------------------------+------------------|
+| How to use Repl.it for Running Python in   |                  |
+| the Browser                                |                  |
+|--------------------------------------------+------------------|
+| How to install Python 3 on Mac             |                  |
+|--------------------------------------------+------------------|
+| How to install Python 3 on PC              |                  |
+|--------------------------------------------+------------------|
+| Basic Usage Tips and Tricks for the        |                  |
+| Python Repl                                |                  |
+|--------------------------------------------+------------------|
+| Introduction to the Zen of Python          |                  |
+| (PEP 20)                                   |                  |
+|--------------------------------------------+------------------|
+| Differences Between Python Versions 2 vs 3 |                  |
+|--------------------------------------------+------------------|
+| Overview of Indentation in Python Programs |                  |
+|--------------------------------------------+------------------|
+| The Case Against Code Comments             |                  |
+|--------------------------------------------+------------------|
+| Manually Build an Incrementing Matrix      |                  |
+| Function in Python                         |                  |
+|--------------------------------------------+------------------|
+| Section Introduction                       |                  |
+|--------------------------------------------+------------------|
+| Introduction to Variables in Python        |                  |
+|--------------------------------------------+------------------|
+| Python Best Practices for Variable Naming  |                  |
+| and Style                                  |                  |
+|--------------------------------------------+------------------|
+| Overview of Python Data Types              |                  |
+|--------------------------------------------+------------------|
+| How to Change Python Variable Values       | chg_var_val.py   |
+|--------------------------------------------+------------------|
+| Guide to Single Line, Inline and Multi     |                  |
+| Line Comments in Python                    |                  |
+|--------------------------------------------+------------------|
+| Monolithic vs Microservice Application     |                  |
+| Architectures                              |                  |
+|--------------------------------------------+------------------|
+| Requirement Elicitation - a Gude for       |                  |
+| Feature Development                        |                  |
+|--------------------------------------------+------------------|
+| Section Introduction                       |                  |
+|--------------------------------------------+------------------|
+| Python String Basics                       | str_basics.py    |
+|--------------------------------------------+------------------|
+| Python String Case Functions               | str_case_fctn.py |
+|--------------------------------------------+------------------|
+| How to Access Portions of Strngs in Python |                  |
+|--------------------------------------------+------------------|
+| Guide to Heredocs in Python                | heredoc.py       |
+|--------------------------------------------+------------------|
+| How to Build a Raw Multiline String in     |                  |
+| Python                                     |                  |
+|--------------------------------------------+------------------|
+| Build a Dynamic Reducer in Python          |                  |
+|--------------------------------------------+------------------|
+| Guide to Modern Python String              |                  |
+| Interpolation                              | interpolation.py |
+|--------------------------------------------+------------------|
+| How to Use Python's format method to       |                  |
+| Implement Index Based String Interpolation | format_method.py |
+|--------------------------------------------+------------------|
+| Finding a Substring in Python with: Find,  |                  |
+| Index, and In                              |                  |
+|--------------------------------------------+------------------|
+| Using Python's replace Function to Find    |                  |
+| and Replace String Values                  |                  |
+|--------------------------------------------+------------------|
+| Using a Negative Index with a Python       |                  |
+| String                                     |                  |
+|--------------------------------------------+------------------|
+| Overview of Python's strip, lstrip, and    |                  |
+| rstrip Functions                           |                  |
+|--------------------------------------------+------------------|
+| Guide to Python's Partition Function       |                  |
+|--------------------------------------------+------------------|
+| Guide to the Python split Function         |                  |
+|--------------------------------------------+------------------|
+| How to Check if Strings Represent          |                  |
+| Numbers or Alphanumeric Characters in      |                  |
+| Python                                     |                  |
+|--------------------------------------------+------------------|
+| Course Checkpoint 3                        |                  |
+|--------------------------------------------+------------------|
+|--------------------------------------------+------------------|
